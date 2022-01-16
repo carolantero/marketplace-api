@@ -3,7 +3,7 @@
 **API criada com a finalidade de simular um sistema de cadastro, listagem, atualização e exclusão de usuarios e produtos de um marketplace.**
 
 ##
-######Características das aplicações dessa API
+#####Características das aplicações dessa API
 
 - Usuário
   -   Fazer Login
